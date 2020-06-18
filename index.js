@@ -7,7 +7,7 @@ if ('serviceWorker' in navigator) {
   }*/
   
   if (navigator.serviceWorker) {
-  navigator.serviceWorker.register('/mv_store_final/sw.js').then(function(registration) {
+  navigator.serviceWorker.register('/marketplace_odco/sw.js').then(function(registration) {
     console.log('ServiceWorker registration successful with scope:',  registration.scope);
   }).catch(function(error) {
     console.log('ServiceWorker registration failed:', error);

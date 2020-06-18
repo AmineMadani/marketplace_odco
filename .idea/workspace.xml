@@ -94,13 +94,13 @@
       <replace>Vendors</replace>
       <replace>$vendor</replace>
       <replace>Vendor</replace>
-      <replace>{{ URL::asset('assets/</replace>
+      <replace>{{ URL::asset('/</replace>
       <replace>.css')}}&quot;</replace>
       <replace>.js')}}&quot;&gt;</replace>
-      <replace>&quot;assets/img/</replace>
+      <replace>&quot;/img/</replace>
       <replace>'assets2/</replace>
-      <replace>asset('assets/</replace>
-      <replace>{{url('/')}}/assets/img/</replace>
+      <replace>asset('/</replace>
+      <replace>{{url('/')}}//img/</replace>
       <replace>$pageset-&gt;</replace>
       <replace>$setting[0]-&gt;</replace>
       <replace>'</replace>
@@ -125,10 +125,10 @@
         <option value="$PROJECT_DIR$/project/app/Order.php" />
         <option value="$PROJECT_DIR$/assets2/js/genius.js" />
         <option value="$PROJECT_DIR$/project/app/Review.php" />
-        <option value="$PROJECT_DIR$/assets/css/genius-admin.css" />
+        <option value="$PROJECT_DIR$//css/genius-admin.css" />
         <option value="$PROJECT_DIR$/project/resources/views/admin/dashboard.blade.php" />
-        <option value="$PROJECT_DIR$/assets/css/go-style.css" />
-        <option value="$PROJECT_DIR$/assets/css/responsive.css" />
+        <option value="$PROJECT_DIR$//css/go-style.css" />
+        <option value="$PROJECT_DIR$//css/responsive.css" />
         <option value="$PROJECT_DIR$/project/resources/views/blogdetails.blade.php" />
         <option value="$PROJECT_DIR$/project/resources/views/product.blade.php" />
         <option value="$PROJECT_DIR$/project/resources/views/includes/master.blade.php" />
@@ -151,10 +151,10 @@
         <option value="$PROJECT_DIR$/project/resources/views/includes/newmaster.blade.php" />
         <option value="$PROJECT_DIR$/project/resources/views/payreturn.blade.php" />
         <option value="$PROJECT_DIR$/project/resources/views/admin/includes/master-admin.blade.php" />
-        <option value="$PROJECT_DIR$/assets/js/main.js" />
+        <option value="$PROJECT_DIR$//js/main.js" />
         <option value="$PROJECT_DIR$/project/resources/views/checkout.blade.php" />
         <option value="$PROJECT_DIR$/project/resources/views/registervendor.blade.php" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$//css/style.css" />
         <option value="$PROJECT_DIR$/project/app/SiteLanguage.php" />
         <option value="$PROJECT_DIR$/project/resources/views/admin/language.blade.php" />
         <option value="$PROJECT_DIR$/project/resources/views/admin/slideradd.blade.php" />
@@ -507,7 +507,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+    <entry file="file://$PROJECT_DIR$//js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -557,7 +557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/genius-admin.css">
+    <entry file="file://$PROJECT_DIR$//css/genius-admin.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="496" column="4" selection-start-line="496" selection-start-column="4" selection-end-line="496" selection-end-column="4" />
@@ -571,14 +571,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/go-style.css">
+    <entry file="file://$PROJECT_DIR$//css/go-style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="245" column="36" selection-start-line="245" selection-start-column="36" selection-end-line="245" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
+    <entry file="file://$PROJECT_DIR$//css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="302" column="0" selection-start-line="302" selection-start-column="0" selection-end-line="302" selection-end-column="0" />
@@ -762,7 +762,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+    <entry file="file://$PROJECT_DIR$//js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21911038">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -778,7 +778,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$//css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="460" column="19" selection-start-line="460" selection-start-column="19" selection-end-line="460" selection-end-column="19" />
